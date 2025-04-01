@@ -1,8 +1,6 @@
-# Learning-Unity-1
+# 3D Endless Car Driving Game in Unity
 
-Welcome to my first Unity game project! This repository contains a 3D car game developed while following a Unity tutorial to understand the Unity engine better.
-
-![](unity-1-demo.gif)
+This repository contains a 3D car game developed while following a Unity tutorial to understand the Unity engine better.
 
 ## Overview
 
@@ -17,7 +15,7 @@ This project is a basic 3D car game created as a learning exercise. It includes 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ajit-Mehrotra/Learning-Unity-1.git
+   git clone https://github.com/viveksapkal2793/Endless-Car-Driving-Game.git
 
 2. Open the project in Unity Hub.
 
